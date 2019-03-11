@@ -6,11 +6,11 @@ from urllib.error import HTTPError
 import urllib.request
 
 """ INSERT USERNAME HERE """
-USERNAME = ""
+USERNAME = "takmahik"
 
 """ INSERT COOKIES HERE """
 COOKIES = {
-    "me": "",
+    "me": "me",
 }
 
 FLAGS = {
